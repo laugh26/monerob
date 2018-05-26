@@ -1,6 +1,8 @@
 # MoneroB
 
-Copyright (c) 2018 The MoneroB Project. 
+
+Copyright (c) 2018 The MoneroB Project.  										
+
 Copyright (c) 2018 The MoneroV Project.   
 Copyright (c) 2014-2018 The Monero Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
@@ -8,7 +10,7 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 ## Development resources
 
 - Website: [monerob.org](https://monerob.org)
-- Github: [https://github.com/monerov/monerov-gui](https://github.com/monerob/monerob-gui)
+- Github: [https://github.com/monerob/monerob-gui](https://github.com/monerob/monerob-gui)
 - Mail: [team@monerob.org](mailto:team@monerob.org)
 
 
