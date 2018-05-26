@@ -1,4 +1,5 @@
 # MoneroB
+
 Copyright (c) 2018 The MoneroB Project. 
 Copyright (c) 2018 The MoneroV Project.   
 Copyright (c) 2014-2018 The Monero Project.   
